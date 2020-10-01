@@ -1,0 +1,65 @@
+Prerequisite: Knows any one programming knowledge and basics of OOPS
+Weeks
+Topics
+Week 1 
+Asymptotic analysis (Big-O notation)
+Arrays
+Strings
+
+Week 2
+Sorting and searching
+Recursion
+
+Week 3 
+Linked List
+Doubly linked list
+
+Week 4
+Stacks
+Queues
+Doubly-ended queue
+
+Week 5
+Trees 
+ Heaps
+
+Week 6
+ General Mathematics
+ Number Theory
+Bitwise Operations
+
+Week 7
+Divide and Conquer
+     Binary Search Related Problems.
+
+Week 8
+ Backtracking
+ Greedy Algorithms
+
+Week 9
+Graphs and its Traversal
+    Graph Related Algorithms
+
+Week 10
+Basic Dynamic Programming
+
+Week 11
+Advance Dynamic Programming 
+
+Week 12
+Segment Trees
+Binary Index Tree
+
+Week 13
+Disjoint Sets
+    String Related Algorithms.
+Topological Sorting.
+
+Week 14
+ Miscellaneous Topics
+     Problem Solving
+Tries
+
+
+
+Note:- STL classes will be learned as per the topics.
